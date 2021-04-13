@@ -1,0 +1,5 @@
+{
+  "mongoUri": "mongodb+srv://admin:1111@cluster0.zifvd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "methodsLog": "Choose methods (0 -> Go Back) \n1. Model.deleteOne()\n2. Model.find()\n3. Model.findById()\n4. Model.findByIdAndDelete()\n5. Model.findByIdAndRemove()\n6. Model.findByIdAndUpdate()\n7. Model.findOne()\n8. Model.findOneAndDelete()\n9. Model.findOneAndRemove()\n10. Model.findOneAndUpdate()\n11. Model.replaceOne()\n12 Model.updateOne()\n",
+  "tablesLog": "Choose table \n1. Kursants \n2. Groups \n3. Faculties\n"
+}
